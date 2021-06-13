@@ -1,0 +1,20 @@
+.title {
+    color: #ff0000
+    ;
+    font-size: 50px;
+  }
+  h1 {background-image: url(https://publicdomainq.net/images/201707/17s/publicdomainq-0011229ofc.jpg);
+  background-attachment: fixed;}
+  .title {
+    height: 500px;
+    background-size:cover;
+  } 
+  .contact-form {
+    background-image: url(https://img.my-best.com/content_section/choice_component/contents/c3a662d2c4f61788b1472168108720d9.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=690&fit=max&s=90c9d2b8522fae722ce0c0f70b83e9ba);
+    background-size: cover;
+    color: white;
+    height: 400px;
+  }
+  .contents {
+  
+  }
